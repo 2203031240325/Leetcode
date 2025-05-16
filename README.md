@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2203031240325/Leetcode/tree/master/0001-two-sum) |
+| [0898-transpose-matrix](https://github.com/2203031240325/Leetcode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/2203031240325/Leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/2203031240325/Leetcode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/2203031240325/Leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
