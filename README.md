@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/2203031240325/Leetcode/tree/master/0001-two-sum) |
 | [0898-transpose-matrix](https://github.com/2203031240325/Leetcode/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/2203031240325/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/2203031240325/Leetcode/tree/master/0070-climbing-stairs) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/2203031240325/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/2203031240325/Leetcode/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/2203031240325/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
