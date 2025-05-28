@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/2203031240325/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/2203031240325/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/2203031240325/Leetcode/tree/master/0070-climbing-stairs) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/2203031240325/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -58,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/2203031240325/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/2203031240325/Leetcode/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/2203031240325/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
