@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/2203031240325/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/2203031240325/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/2203031240325/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/2203031240325/Leetcode/tree/master/0231-power-of-two) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/2203031240325/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
@@ -55,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/2203031240325/Leetcode/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/2203031240325/Leetcode/tree/master/0861-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2203031240325/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/2203031240325/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/2203031240325/Leetcode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
