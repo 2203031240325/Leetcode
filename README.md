@@ -65,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/2203031240325/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/2203031240325/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/2203031240325/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/2203031240325/Leetcode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2203031240325/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/2203031240325/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/2203031240325/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
